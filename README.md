@@ -32,7 +32,7 @@ Install dependencies using `pip install -r requirements.txt`.
 
 ## Usage
 
-1. Run `python jarvis.py` to start the Jarvis virtual assistant.
+1. Run `python jarvis_gui.py` to start the Jarvis virtual assistant.
 2. Use buttons to switch between emotions or start Jarvis.
 3. Speak voice commands to trigger various functionalities.
 
