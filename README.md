@@ -2,6 +2,9 @@
 "Jarvis GUI with animated GIFs for emotions. Buttons trigger virtual assistant tasks like system info, music playback, AI conversation. Text widget displays responses. Voice commands enable interaction. Visual and auditory feedback provided."
 Below is a sample README file for the Jarvis project:
 
+## output
+![Screenshot 2024-02-15 200733](https://github.com/Avinash015/Jarvis/assets/120790516/26d865a8-8801-4627-b355-12c5e1bf5b1e)
+
 ---
 
 # Jarvis Virtual Assistant
