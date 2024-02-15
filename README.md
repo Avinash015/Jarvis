@@ -4,6 +4,7 @@ Below is a sample README file for the Jarvis project:
 
 ## output
 ![Screenshot 2024-02-15 200733](https://github.com/Avinash015/Jarvis/assets/120790516/26d865a8-8801-4627-b355-12c5e1bf5b1e)
+![Screenshot 2024-02-15 200814](https://github.com/Avinash015/Jarvis/assets/120790516/02fa2d7e-4370-4721-b9ed-e0eca08fc184)
 
 ---
 
